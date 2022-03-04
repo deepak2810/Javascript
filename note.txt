@@ -1,1 +1,3 @@
- this is a simple javascript file. 
+ this is a simple javascript file.
+
+ console.log("js code loading")
