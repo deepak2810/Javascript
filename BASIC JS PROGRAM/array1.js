@@ -1,3 +1,6 @@
+// Array : Collection of similar type of data.
+
+
 // Declaration of an array.
 
 var guestList = ["Deepak","Manish","Asish","Rahul","Lucky"]
